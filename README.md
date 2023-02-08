@@ -4,3 +4,4 @@ The National Earthquake Information Center (NEIC) determines the location and si
 ### EDA
 At the first step, I investigated dataset for cleaning and achiving a better vision over data
 Then, I used visualising data on map and also created a timelaps of occured earthquakes.
+![heatmap](https://github.com/mohsen-dl/Earthquake/blob/master/pic/heatmap.png)
