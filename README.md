@@ -6,3 +6,4 @@ At the first step, I investigated dataset for cleaning and achiving a better vis
 Then, I used visualising data on map and also created a timelaps of occured earthquakes.
 ![heatmap](https://github.com/mohsen-dl/Earthquake/blob/master/pic/heatmap.png)
 ![distribution map](https://github.com/mohsen-dl/Earthquake/blob/master/pic/distribution%20map.png)
+![kepler map](https://github.com/mohsen-dl/Earthquake/blob/master/pic/kepler%20map.png)
